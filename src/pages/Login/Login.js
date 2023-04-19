@@ -163,7 +163,7 @@ const Login = () => {
                 <div css={signupMessage}>Or Sign Up Using</div>
 
             <footer>
-                <div css={register}><Link to="/register" >REGISTER</Link></div>
+                <div css={register}><Link to="/signup" >REGISTER</Link></div>
             </footer>
 
         </div>
